@@ -102,7 +102,7 @@ spice(num1,num2) // first arg is starting index, second arg is how many items to
 ```
 
 
-###Array Mutations
+### Array Mutations
 
 |  | Front   | Back | What it returns |
 --- | --- | --- | --- | 
@@ -166,7 +166,7 @@ formalName //returns Matt
 * Difference between [] & dot notation:
  expression you pass in will get evaluated first in bracket notaion vs in dot notation
 
-#####Undestanding difference:
+##### Undestanding difference:
 
 ```javascript
 obj.newkey = 'value 1' //no evaluation happening, you are assining new value to the key
@@ -194,11 +194,11 @@ object.keys(obj).indexOf("name")
 //returns an index, if not -1, you will know that it exists, but not reccomended option
 ```
 
-###Reg expressions
+### Reg expressions
 
 "Elie".match(/[aeiou]/gi)
 
-##Higher Order Functions
+## Higher Order Functions
 
 ```javascript
 function higherOrderFunction(cb){
