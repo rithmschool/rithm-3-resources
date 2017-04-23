@@ -13,7 +13,7 @@
 * ForEach - undefined
 * Filter - []
 * Map - []
-* reduce
+* reduce: :)
 * some - boolean
 * every - boolean
 * find
